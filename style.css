@@ -1,0 +1,9 @@
+.title {
+  font-size: 4rem;
+  font-weight: bold;
+}
+section {
+  background-color: antiquewhite;
+  color: gray;
+  padding: 2rem;
+}
